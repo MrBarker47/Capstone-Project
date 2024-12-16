@@ -1,6 +1,4 @@
-import './App.css'
-
-function About() {
+export const About = function() {
     return(
         <div>
        <nav>
@@ -16,4 +14,3 @@ function About() {
     )
 }
 
-export default About;

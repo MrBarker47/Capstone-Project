@@ -1,5 +1,5 @@
 
-function Home() {
+export const Home = function() {
     return(
         <div>
        <nav>
@@ -12,10 +12,9 @@ function Home() {
         </ul>
        </nav>
        <br />
-        
+
 
         </div>
     )
 }
 
-export default Home;
