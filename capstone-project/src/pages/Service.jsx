@@ -7,7 +7,7 @@ export const Service = function() {
     return(
         <div className='Center'>
         <Card className="Card-Background" style={{ width: '18rem' }}>
-        <Card.Img variant="top" src="holder.js/100px180" />
+        <Card.Img variant="top" src="/images/Food2.png" style={{width: "140px"}} />
         <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -19,7 +19,7 @@ export const Service = function() {
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '18rem' }}>
-         <Card.Img variant="top" src="holder.js/100px180" />
+         <Card.Img variant="top" src="/images/Steak.png" style={{width: "140px"}} />
         <Card.Body>
         <Card.Title>Card Title</Card.Title>
         <Card.Text>
@@ -31,7 +31,7 @@ export const Service = function() {
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '18rem' }}>
-          <Card.Img variant="top" src="holder.js/100px180" />
+          <Card.Img variant="top" src="/images/Wings.png" style={{width: "140px", height: "190px"}} />
            <Card.Body>
            <Card.Title>Card Title</Card.Title>
            <Card.Text>
