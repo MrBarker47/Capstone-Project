@@ -1,17 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url(../public/images/BBQ.png);
+    background-size: 420px;
+    background-blend-mode: darken;
+    background-color: rgb(173, 119, 119);
+
+}
+
+
+/* Navbar */
 nav {
     display: flex;
-    margin-left: 20px;
-    
+    background-color: rgb(30, 24, 13);
+    max-width: 100%;
+   
+
 }
 
 ul  {
     list-style: none;
     display: flex;
     margin-top: 60px;
-  
+
 }
 
+
 li {
-    margin-left: 140px;
+    margin-left: 220px;
+    margin-bottom: 10px;
     font-size: 20px;
+ 
+}
+
+a {
+    color: white;
+}
+
+/* Body */
+
+.header {
+    text-align: center;
+    margin-top: 200px;
 }

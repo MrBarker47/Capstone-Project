@@ -3,7 +3,7 @@ export const Home = function() {
     return(
         <div>
        <nav>
-        <img src="/images/BBQ.png" alt="steak on a the grill" style={{height:150, width:140}}/>
+
         <ul>
             <li><a href="">Home</a></li>
             <li><a href="">About</a></li>
@@ -12,7 +12,9 @@ export const Home = function() {
         </ul>
        </nav>
        <br />
+        <div>
 
+        </div>
 
         </div>
     )
