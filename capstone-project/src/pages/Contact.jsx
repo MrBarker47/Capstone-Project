@@ -1,10 +1,15 @@
-import './App.css'
 
-function Contact() {
+
+ export const Contact = function() {
     return(
         <div>
+            <form>
+                <label>
+                    Name:
+                    <input type="text" name="name"/>
+                </label>
+            </form>
         </div>
     )
 }
 
-export default Contact;

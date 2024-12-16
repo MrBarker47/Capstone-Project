@@ -5,7 +5,7 @@
 
 
 body {
-    background-image: url(../public/images/BBQ.png);
+    background-image: url(/images/BBQ.png);
     background-size: 420px;
     background-blend-mode: darken;
     background-color: rgb(173, 119, 119);

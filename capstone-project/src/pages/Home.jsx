@@ -2,20 +2,6 @@
 export const Home = function() {
     return(
         <div>
-       <nav>
-
-        <ul>
-            <li><a href="">Home</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Contact</a></li>
-            <li><a href="">Service</a></li>
-        </ul>
-       </nav>
-       <br />
-        <div>
-
-        </div>
-
         </div>
     )
 }
