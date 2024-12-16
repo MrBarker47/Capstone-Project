@@ -1,7 +1,10 @@
+
+
 function Home() {
     return(
         <div>
        <nav>
+        <img src="/images/BBQ.png" alt="" />
         <ul>
             <li><a href="">Home</a></li>
             <li><a href="">About</a></li>
@@ -9,6 +12,9 @@ function Home() {
             <li><a href="">Service</a></li>
         </ul>
        </nav>
+       <br />
+
+
         </div>
     )
 }
