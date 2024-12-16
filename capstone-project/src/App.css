@@ -51,7 +51,30 @@ a {
 
 }
 
+Form {
+   background-color: rgb(30, 24, 13);
+    margin-top: 200px;
+    margin-left: 490px;
+    color: rgb(253, 253, 253);
+    width: 420px;
+    height: 250px;
 
+}
+
+.Input, .Input2  {
+    display: flex;
+    font-size: 20px;
+    margin: 20px;
+}
+
+Form Label {
+ display: flex;
+ margin-left: 20px;
+}
+
+Button {
+    margin-left: 20px;
+}
 /* Service Section */
 .Center {
     display: flex;
@@ -68,3 +91,4 @@ a {
     margin: 20px;
 }
 
+/*  */
