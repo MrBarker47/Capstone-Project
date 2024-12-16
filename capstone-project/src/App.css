@@ -43,8 +43,27 @@ a {
 
 /* Body */
 
+/* Contact Section */
 .paragraph {
     color: white;
     background-color: black;
     margin-top: 200px;
+
 }
+
+
+/* Service Section */
+.Center {
+    display: flex;
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 200px;
+}
+
+
+
+.Card-Background {
+    background-color: aqua;
+    margin: 20px;
+}
+
