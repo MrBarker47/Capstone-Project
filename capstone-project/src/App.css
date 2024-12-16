@@ -58,12 +58,13 @@ a {
     text-align: center;
     margin-left: 170px;
     margin-top: 200px;
+    color: white;
 }
 
 
 
 .Card-Background {
-    background-color: aqua;
+    background-color: rgb(26, 30, 30);
     margin: 20px;
 }
 
