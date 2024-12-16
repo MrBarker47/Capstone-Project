@@ -43,7 +43,8 @@ a {
 
 /* Body */
 
-.header {
-    text-align: center;
+.paragraph {
+    color: white;
+    background-color: black;
     margin-top: 200px;
 }
