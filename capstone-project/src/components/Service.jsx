@@ -1,7 +1,10 @@
+import './App.css'
+
 function Service() {
     return(
         <div>
        <nav>
+       <img src="/images/BBQ.png" alt="steak on a the grill" style={{height:150, width:140}}/>
         <ul>
             <li><a href="">Home</a></li>
             <li><a href="">About</a></li>
