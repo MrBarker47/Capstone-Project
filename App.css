@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: url(/images/BBQ.png);
+    background-size: 420px;
+    background-blend-mode: darken;
+    background-color: rgb(173, 119, 119);
+
+}
+
+
+/* Navbar */
+nav {
+    display: flex;
+    background-color: rgb(30, 24, 13);
+    max-width: 100%;
+   
+
+}
+
+ul  {
+    list-style: none;
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
+}
+
+
+li {
+    margin-left: 220px;
+    font-size: 20px;
+ 
+}
+
+a {
+    color: white;
+}
+
+/* Body */
+
+/* Contact Section */
+.paragraph {
+    color: white;
+    background-color: black;
+    margin-top: 200px;
+
+}
+
+Form {
+   background-color: rgb(30, 24, 13);
+    margin-top: 200px;
+    margin-left: 490px;
+    color: rgb(253, 253, 253);
+    width: 420px;
+    height: 250px;
+
+}
+
+.Input, .Input2  {
+    display: flex;
+    font-size: 20px;
+    margin: 20px;
+}
+
+Form Label {
+ display: flex;
+ margin-left: 20px;
+}
+
+Button {
+    margin-left: 20px;
+}
+/* Service Section */
+.Center {
+    display: flex;
+    text-align: center;
+    margin-left: 170px;
+    margin-top: 200px;
+    color: white;
+}
+
+
+
+.Card-Background {
+    background-color: rgb(26, 30, 30);
+    margin: 20px;
+}
+
+/*  */
