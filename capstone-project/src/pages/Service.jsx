@@ -9,36 +9,33 @@ export const Service = function() {
         <Card className="Card-Background" style={{ width: '18rem' }}>
         <Card.Img variant="top" src="/images/Food2.png" style={{width: "140px"}} />
         <Card.Body>
-        <Card.Title>Card Title</Card.Title>
+        <Card.Title>Bacon Burger</Card.Title>
         <Card.Text>
-        Some quick example text to build on the card title and make up the
-        bulk of the cards content.
+         14.99
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Add To Cart</Button>
         </Card.Body>
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '18rem' }}>
          <Card.Img variant="top" src="/images/Steak.png" style={{width: "140px"}} />
         <Card.Body>
-        <Card.Title>Card Title</Card.Title>
+        <Card.Title>Steak</Card.Title>
         <Card.Text>
-        Some quick example text to build on the card title and make up the
-        bulk of the cards content.
+         20.99
         </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Add To Cart</Button>
         </Card.Body>
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '18rem' }}>
           <Card.Img variant="top" src="/images/Wings.png" style={{width: "140px", height: "190px"}} />
            <Card.Body>
-           <Card.Title>Card Title</Card.Title>
+           <Card.Title> 10 Wings</Card.Title>
            <Card.Text>
-          Some quick example text to build on the card title and make up the
-          bulk of the cards content.
+            15.99
           </Card.Text>
-        <Button variant="primary">Go somewhere</Button>
+        <Button variant="primary">Add To Cart</Button>
       </Card.Body>
     </Card>
         </div>
