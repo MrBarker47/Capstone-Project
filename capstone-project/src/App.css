@@ -43,6 +43,20 @@ a {
 
 /* Body */
 
+/* Home Page */
+.header {
+    font-family: "Mountains of Christmas", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align : center;
+    background-color: rgb(187, 16, 50);
+    color: white;
+    margin-top: 270px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
 /* Contact Section */
 .paragraph {
     color: white;
