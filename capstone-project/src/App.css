@@ -72,8 +72,9 @@ Form Label {
  margin-left: 20px;
 }
 
-Button {
+.contact {
     margin-left: 20px;
+    font-size: 20px;
 }
 /* Service Section */
 .Center {
@@ -89,6 +90,9 @@ Button {
 .Card-Background {
     background-color: rgb(26, 30, 30);
     margin: 20px;
+    box-shadow: 30%;
 }
+
+
 
 /*  */
