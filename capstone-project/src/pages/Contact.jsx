@@ -9,7 +9,7 @@ export const Contact = function() {
         <Form.Control className="Input" type="email" placeholder="name@example.com" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">
-        <Form.Label>Example textarea</Form.Label>
+        <Form.Label>Message</Form.Label>
         <Form.Control className="Input2" as="textarea" rows={3} />
         </Form.Group>
         <Button className="contact" variant='primary' type="submit" >Submit</Button>
