@@ -57,14 +57,23 @@ a {
 
 }
 
-/* Contact Section */
+
+
+/* About */
+.Grandma {
+    border-radius: 150px;
+}
+
+
 .paragraph {
     color: white;
     background-color: black;
-    margin-top: 200px;
+    margin-left: 300px;
+    margin-right: 300px;
+
 
 }
-
+/* Contact */
 Form {
    background-color: rgb(30, 24, 13);
     margin-top: 200px;
