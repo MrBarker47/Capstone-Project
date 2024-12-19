@@ -6,7 +6,7 @@ This is a food deliervy website. Where you'll see the logo of my BBQ company. On
 
 <br>
 
-There's a couple of errors in this project that I do plan on fixing and after I'm done with my software-engineer program. 
+<p>I did you use a youtube tutorial on using the mongodb, and mongoose. To help with getting an idea,</p>
 
 
 

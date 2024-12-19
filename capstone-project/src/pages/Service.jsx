@@ -1,10 +1,9 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-
-
 export const Service = function() {
-    return(
+
+return(
         <div className='Center'>
         <Card className="Card-Background" style={{ width: '18rem' }}>
         <Card.Img variant="top" src="/images/Food2.png" style={{width: "140px"}} />
@@ -41,3 +40,4 @@ export const Service = function() {
         </div>
     )
 }
+
