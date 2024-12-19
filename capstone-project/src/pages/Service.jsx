@@ -22,7 +22,7 @@ export const Service = function() {
         <Card.Body>
         <Card.Title>Steak</Card.Title>
         <Card.Text>
-         20.99
+         22.99
         </Card.Text>
         <Button variant="primary">Add To Cart</Button>
         </Card.Body>
@@ -33,7 +33,7 @@ export const Service = function() {
            <Card.Body>
            <Card.Title> 10 Wings</Card.Title>
            <Card.Text>
-            15.99
+            16.99
           </Card.Text>
         <Button variant="primary">Add To Cart</Button>
       </Card.Body>

@@ -2,6 +2,7 @@ export const About = function() {
     return(
         <div>
             <img className="Grandma" src="/images/Grandma.png" alt="photo of my grandma" style={{width: 220}} />
+            <h1 className="Alabama">The Lady From Alabama</h1>
         <p className="paragraph">Lorem, ipsum dolor 
             sit amet consectetur adipisicing elit. Aspernatur 
             error obcaecati voluptas voluptatem quia dolorem harum eveniet 
