@@ -5,7 +5,7 @@ export const Contact = function() {
   return (
     <Form>
       <Form.Group className="Form" controlId="exampleForm.ControlInput1">
-        <Form.Label>Email address</Form.Label>
+        <Form.Label className="Label">Email address</Form.Label>
         <Form.Control className="Input" type="email" placeholder="name@example.com" />
       </Form.Group>
       <Form.Group className="mb-3" controlId="exampleForm.ControlTextarea1">

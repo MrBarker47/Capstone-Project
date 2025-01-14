@@ -80,25 +80,37 @@ Form {
     margin-left: 490px;
     color: rgb(253, 253, 253);
     width: 420px;
-    height: 250px;
+    height: 270px;
 
 }
 
 .Input, .Input2  {
     display: flex;
     font-size: 20px;
-    margin: 20px;
+    margin: 20px 80px;
+}
+
+.Input {
+    width: 250px;
 }
 
 Form Label {
- display: flex;
- margin-left: 20px;
+  display: flex;
+  justify-content: center;
+
 }
 
+
+
 .contact {
-    margin-left: 20px;
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    width: 140px;
     font-size: 20px;
 }
+
+
 /* Service Section */
 .Center {
     display: flex;
