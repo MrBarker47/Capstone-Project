@@ -16,10 +16,7 @@ body {
 /* Navbar */
 nav {
     display: flex;
-    /* background-color: rgb(30, 24, 13); */
     max-width: 100%;
-   
-
 }
 
 
@@ -33,16 +30,12 @@ ul  {
 
 
 li {
+    display: flex;
+    justify-self: center;
     margin-left: 200px;
     font-size: 20px;
 
 }
-
-ul:hover {
-    color: aqua;
-}
-
-
 
 a {
     color: rgb(0, 0, 0);
@@ -53,7 +46,7 @@ a {
 }
 
 a:hover {
-    background-color: rgb(245, 71, 71);
+    background-color: rgb(207, 57, 57);
     transition: all 0.4s ease-in-out;
 }
 
