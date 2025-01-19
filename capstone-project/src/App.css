@@ -167,8 +167,9 @@ Form Label {
 .Center {
     display: flex;
     text-align: center;
-    margin-left: 170px;
+    margin-left: 180px;
     margin-top: 200px;
+    gap: 30px;
     color: white;
 }
 
