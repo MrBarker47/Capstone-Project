@@ -80,6 +80,7 @@ a:hover {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0.25em, rgba(0, 0, 0, 0.05) 0px 0.25em 1em;
 }
 
 
@@ -100,10 +101,12 @@ a:hover {
 .Alabama {
     text-align: center;
     margin-top: 2px;
+    color: rgb(223, 55, 55)
+    
 }
 
 .Alabama2 {
-    color: rgb(223, 55, 55)
+    color: black;
 }
 /* Contact */
 Form {
@@ -174,7 +177,7 @@ Form Label {
 .Card-Background {
     background-color: rgb(26, 30, 30);
     margin: 20px;
-    box-shadow: 30%;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0.25em, rgba(0, 0, 0, 0.05) 0px 0.25em 1em;
 }
 
 
