@@ -42,7 +42,8 @@ li {
 a {
     color: rgb(0, 0, 0);
     border: 2px solid rgb(0, 0, 0);
-    padding: 20px;
+    border-radius: 5%;
+    padding: 7px;
     text-decoration: none;
 
 }
