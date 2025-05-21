@@ -6,7 +6,7 @@ export const Service = function() {
 return(
         <div className='Center'>
         <Card className="Card-Background" style={{ width: '20rem' }}>
-        <Card.Img variant="top" src="/images/Food2.png" style={{width: "140px"}} />
+        <Card.Img variant="top" src="/images/Food2.png" className="picture" style={{width: "140px"}} />
         <Card.Body>
         <Card.Title>Bacon Burger</Card.Title>
         <Card.Text>
@@ -17,7 +17,7 @@ return(
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '20rem' }}>
-         <Card.Img variant="top" src="/images/Steak.png" style={{width: "140px"}} />
+         <Card.Img variant="top" src="/images/Steak.png" className="picture" style={{width: "140px"}} />
         <Card.Body>
         <Card.Title>Steak</Card.Title>
         <Card.Text>
@@ -28,7 +28,7 @@ return(
         </Card>
         <br />
          <Card className="Card-Background" style={{ width: '20rem' }}>
-          <Card.Img variant="top" src="/images/Wings.png" style={{width: "140px", height: "190px"}} />
+          <Card.Img variant="top" src="/images/Wings.png" className="picture" style={{width: "140px", height: "190px"}} />
            <Card.Body>
            <Card.Title> 10 Wings</Card.Title>
            <Card.Text>

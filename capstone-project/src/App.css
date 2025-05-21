@@ -341,6 +341,21 @@ button {
     font-size: 20px;
 }
 
+.picture {
+cursor: pointer; 
+transition-property: all; 
+transition-duration: 0.3s; 
+transition-timing-function: ease; 
+}
+
+.picture:hover {
+    transform: scale(3);
+}
+
+.card-title, .card-text{
+    font-size: 30px;
+}
+
 
 
 }
