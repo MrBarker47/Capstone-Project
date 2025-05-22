@@ -12,7 +12,7 @@ return(
         <Card.Text>
          14.99
         </Card.Text>
-        <Button variant="primary">Add To Cart</Button>
+        <Button variant="primary" className='button'>Add To Cart</Button>
         </Card.Body>
         </Card>
         <br />
@@ -23,7 +23,7 @@ return(
         <Card.Text>
          22.99
         </Card.Text>
-        <Button variant="primary">Add To Cart</Button>
+        <Button variant="primary" className='button'>Add To Cart</Button>
         </Card.Body>
         </Card>
         <br />
@@ -34,7 +34,7 @@ return(
            <Card.Text>
             16.99
           </Card.Text>
-        <Button variant="primary">Add To Cart</Button>
+        <Button variant="primary" className='button'>Add To Cart</Button>
       </Card.Body>
     </Card>
         </div>

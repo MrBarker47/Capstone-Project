@@ -341,6 +341,7 @@ button {
     font-size: 20px;
 }
 
+
 .picture {
 cursor: pointer; 
 transition-property: all; 
@@ -356,6 +357,8 @@ transition-timing-function: ease;
     font-size: 30px;
 }
 
-
+.button:hover {
+ background-color: red;
+}
 
 }
